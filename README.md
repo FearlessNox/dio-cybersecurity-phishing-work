@@ -4,7 +4,7 @@ Curso de Cybersecurity. Trabalho com foco em entender como é feita a coleta de 
 Comandos utilizados: 
 
 Acessar o root: sudo su
-Acessar o toolkit: setoolkit
+Acessar o toolkit: `setoolkit`
 - Opção 1:  Social-Engenineering Attacks
 - Opção 2:  Website Attack Vectors
 - Opção 3:  Credential Garvester Attack Method
