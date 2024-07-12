@@ -15,7 +15,7 @@ Opção 3:  `Credential Garvester Attack Method`
 
 Opção 2:  `Site Cloner`
 
-Digitar o IP para host
+**Digitar o IP para host**
 
-Digitar o site que será clonada a interface, site utilizado: `http://www.facebook.com/`
+**Digitar o site que será clonada a interface, site utilizado:** `http://www.facebook.com/`
 
